@@ -50,5 +50,6 @@ When working with the program, you need to use several files:
 3. report.txt - the file where the translation report will be written. This file will be created automatically by the program.
 
 # Please note that the paths to the accounts.txt, report.txt files and the transfer_files directory are hardcoded in the program code. Before running the program, make sure that the paths are correct and match the structure of your file system. 
-![Безымянный](https://github.com/Fuzzylolpro/BankProject/assets/132467383/19e64df8-7026-4d57-a9ef-201d77e77e68)
+![Безымянный](https://github.com/Fuzzylolpro/BankProject/assets/132467383/141ead5d-a20a-4a61-8a1f-9d79009dc1c7)
+
 
