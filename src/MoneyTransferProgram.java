@@ -7,9 +7,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class MoneyTransferProgram {
-    private static final String ACCOUNTS_FILE = "B:\\FinalProject\\accounts.txt";
-    private static final String REPORT_FILE = "B:\\FinalProject\\report.txt";
-    private static final String directoryPath = "B:\\FinalProject\\transfer_files\\";
+    private static final String ACCOUNTS_FILE = "C:\\Users\\Кит\\IdeaProjects\\BankProject\\accounts.txt";
+    private static final String REPORT_FILE = "C:\\Users\\Кит\\IdeaProjects\\BankProject\\report.txt";
+    private static final String directoryPath = "C:\\Users\\Кит\\IdeaProjects\\BankProject\\transfer_files\\";
 
     public void parseTransferFiles() throws IOException {
         List<Transfer> transfers = new ArrayList<>();
